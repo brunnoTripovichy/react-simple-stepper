@@ -1,6 +1,6 @@
 # **🚀 React Stepper Component**  
 
-A **fully responsive Stepper (Wizard) component** built with **React, TypeScript, and Tailwind CSS**. This project demonstrates **React fundamentals** such as **state management (`useState`)**, **memoization (`useMemo`)**, and **side effects (`useEffect`)** while ensuring a clean and scalable UI.  
+A **fully responsive Stepper (Wizard) component** built with **React, TypeScript, and Tailwind CSS**. This project demonstrates **React fundamentals** such as **state management (`useState`)**, **memoization (`useMemo`)** while ensuring a clean and scalable UI.  
 
 ---
 
@@ -17,7 +17,7 @@ A **fully responsive Stepper (Wizard) component** built with **React, TypeScript
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-stepper.git
+git clone https://github.com/YOUR_USERNAME/react-simple-stepper.git
 cd react-stepper
 ```
 
